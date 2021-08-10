@@ -1,0 +1,5 @@
+autodiscover.resistez-aux-hackeurs.com
+www.resistez-aux-hackeurs.com
+autoconfig.resistez-aux-hackeurs.com
+resistez-aux-hackeurs.com
+ftp.resistez-aux-hackeurs.com
